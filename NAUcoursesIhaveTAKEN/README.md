@@ -34,3 +34,13 @@ Note: The total credits for Summer I 2024 and Summer II 2024 are adjusted to ref
 
 ---
 
+
+
+| Code       | Name                             | Category                          | Status |
+|------------|----------------------------------|-----------------------------------|--------|
+| COMP 3326  | Web Application Development      | Software Engineering Concentration|        |
+| ENGL 1311  | Composition and Rhetoric I       | General Education                 |        |
+| PSYC 2311  | General Psychology               | General Education                 |        |
+| COMP 3321  | Database Systems                 | Core Courses                      |        |
+| COMP 4356  | Software Project Management      | Software Engineering Concentration|        |
+
